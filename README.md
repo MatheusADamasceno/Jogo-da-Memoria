@@ -1,4 +1,4 @@
-##Bem vindo<p>
+## Bem vindo<p>
 Misturei duas das minhas maiores paixões: jogos de cartas e séries. Criei um jogo da memória com HTML, CSS e JavaScript, utilizando as temáticas de uma das minhas séries favoritas. Com ele, você pode escolher um nome de usuário e o nível de dificuldade da partida. Se o tempo se esgotar, é game over. As cartas são viradas, e a partida é encerrada.
 
 
