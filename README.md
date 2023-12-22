@@ -3,8 +3,7 @@ Misturei duas das minhas maiores paixões: jogos de cartas e séries. Criei um j
 
 <div align="center">
 
-![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Meu-Canto-Codificado/blob/main/Portfolio-Matheus/Capturar.PNG?raw=true)
-
+![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Jogo-da-Memoria/blob/main/Jogo%20da%20memoria/memoria.PNG?raw=true)
 </div>
 
 <div alinhar="centro">
