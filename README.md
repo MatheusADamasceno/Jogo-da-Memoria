@@ -1,6 +1,11 @@
 ## Bem vindo<p>
 Misturei duas das minhas maiores paixões: jogos de cartas e séries. Criei um jogo da memória com HTML, CSS e JavaScript, utilizando as temáticas de uma das minhas séries favoritas. Com ele, você pode escolher um nome de usuário e o nível de dificuldade da partida. Se o tempo se esgotar, é game over. As cartas são viradas, e a partida é encerrada.
 
+<div align="center">
+
+![Captura de tela - Mario Game](https://github.com/MatheusADamasceno/Meu-Canto-Codificado/blob/main/Portfolio-Matheus/Capturar.PNG?raw=true)
+
+</div>
 
 <div alinhar="centro">
 
@@ -34,12 +39,12 @@ Você pode visualizar o projeto clicando no link abaixo:
 <div id="contato">
 
 ## Contato:
-
+### Matheus Damasceno
 Alguns meios de contato:
-<div><a href=" https://wa.me/5562992060399 " target="_blank">
- <img src=" https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo= whatsapp&logoColor=branco "target="_blank"></a>
-<a href = "mailto:matheusalvesdamascenotwd@gmail.com"><img src=" https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white " target=" _em branco"></a><a href=" www.linkedin.com/in/matheusalvesdamasceno " target="_blank">
- <img src=" https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the- badge&logo=linkedin&logoColor=white " target="_blank"></a>   
+<div>
+<a href="https://wa.me/5562992060399" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheusalvesdamascenotwd@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="www.linkedin.com/in/matheusalvesdamasceno" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 </div>
 
